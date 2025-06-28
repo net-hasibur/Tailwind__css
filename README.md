@@ -1,1 +1,1 @@
-This is a demo repository...Tailwind__css.
+This is a demo repository...Tailwind__css. This project is full stack web development with php and Laravel.
